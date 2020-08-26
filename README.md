@@ -1,1 +1,1 @@
-<h1><a href="html1.html">Beriew</a></h1>
+<h1><a href="1.html">Beriew</a></h1>
